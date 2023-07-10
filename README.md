@@ -19,8 +19,12 @@ Exercícios diversos do Leetcode
 ![](Images/Subsequences.png)
 
 ### Exercicio 2 (Médio) - [Coin Change II](https://leetcode.com/problems/coin-change-ii)
-[Código](Exercicios/DistinctSubsequences.py)<br>
+[Código](Exercicios/CoinChange.py)<br>
 ![](Images/Coin.png)
+
+### Exercicio 3 (Difícil) - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
+[Código](Exercicios/LongestParentheses.py)<br>
+![](Images/LongestParentheses.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
