@@ -15,8 +15,12 @@ Exercícios diversos do Leetcode
 ## Screenshots
 
 ### Exercicio 1 (Difícil) - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
-[Código](DistinctSubsequences/DistinctSubsequences.py)<br>
-![](images/Subsequences.png)
+[Código](Exercicios/DistinctSubsequences.py)<br>
+![](Images/Subsequences.png)
+
+### Exercicio 2 (Médio) - [Coin Change II](https://leetcode.com/problems/coin-change-ii)
+[Código](Exercicios/DistinctSubsequences.py)<br>
+![](Images/Coin.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
