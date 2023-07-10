@@ -27,7 +27,10 @@ Temas:
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Exercicio 1 (Difícil) - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+**Código:** [ACESSO](Distinct Subsequences/DistinctSubsequences.py)<br>
+![DistinctSubsequences](images/DistinctSubsequences.png)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
