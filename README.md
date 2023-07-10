@@ -22,15 +22,11 @@ Exercícios diversos do Leetcode
 [Código](Exercicios/CoinChange.py)<br>
 ![](Images/Coin.png)
 
-### Exercicio 3 (Difícil) - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
-[Código](Exercicios/LongestParentheses.py)<br>
-![](Images/LongestParentheses.png)
-
-### Exercicio 4 (Média) - [Jump Game](https://leetcode.com/problems/jump-game-ii)
+### Exercicio 3 (Média) - [Jump Game](https://leetcode.com/problems/jump-game-ii)
 [Código](Exercicios/JumpGame.py)<br>
 ![](Images/JumpGame.png)
 
-### Exercicio 5 (Difícil) - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+### Exercicio 4 (Difícil) - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 [Código](Exercicios/JobScheduling.py)<br>
 ![](Images/JobScheduling.png)
 
