@@ -16,7 +16,7 @@ Exercícios diversos do Leetcode
 
 ### Exercicio 1 (Difícil) - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 [Código](DistinctSubsequences/DistinctSubsequences.py)<br>
-![](images/DistinctSubsequences.png)
+![](images/Subsequences.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
