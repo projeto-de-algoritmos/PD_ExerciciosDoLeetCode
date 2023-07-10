@@ -30,9 +30,9 @@ Exercícios diversos do Leetcode
 [Código](Exercicios/JumpGame.py)<br>
 ![](Images/JumpGame.png)
 
-### Exercicio 5 (Média) - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
-[Código](Exercicios/Palindrome.py)<br>
-![](Images/Palindrome.png)
+### Exercicio 5 (Média) - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+[Código](Exercicios/JobScheduling.py)<br>
+![](Images/JobScheduling.png)
 
 
 
