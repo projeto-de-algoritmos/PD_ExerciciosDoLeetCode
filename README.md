@@ -30,7 +30,7 @@ Exercícios diversos do Leetcode
 [Código](Exercicios/JumpGame.py)<br>
 ![](Images/JumpGame.png)
 
-### Exercicio 5 (Média) - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+### Exercicio 5 (Difícil) - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 [Código](Exercicios/JobScheduling.py)<br>
 ![](Images/JobScheduling.png)
 
