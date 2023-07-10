@@ -6,10 +6,9 @@ class Solution(object):
         dp = [0] * (m + 1)
         prev = [0] * (m + 1)
 
-        dp[0] = 1  # Inicializa o primeiro elemento como 1
+        dp[0] = 1 
 
         for i in range(1, n + 1):
-            # Salva os valores de dp no vetor prev
             prev = dp[:]
 
             for j in range(1, m + 1):
